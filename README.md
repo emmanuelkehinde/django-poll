@@ -1,2 +1,2 @@
 # django-poll
-A simple Polling systems built using Django python framework.
+A simple Polling system built using Django python framework.
